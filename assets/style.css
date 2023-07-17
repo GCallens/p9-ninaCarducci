@@ -84,6 +84,7 @@ body {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+    font-size: calc(1.275rem + 0.3vw);
 }
 #about-me p {
 	width: 80%;
@@ -91,7 +92,7 @@ body {
 }
 
 #gallery {
-	/*	min-height: 100vh; */
+	min-height: 100vh;
 }
 .title{
 	text-align: center;
